@@ -53,11 +53,7 @@ Learning system design & scalable architecture 🚀
 
 ### 🔥 My Stats
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thanakitc58&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakitc58&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+<p align="center">
+  <img src="https://github.com/thanakitc58/thanakitc58/blob/main/github-metrics.svg" />
 </p>
 
