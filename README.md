@@ -51,14 +51,13 @@ Learning system design & scalable architecture 🚀
 
 ---
 
-### :fire: My Stats
+### 🔥 My Stats
 
-<div align="center">
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thanakitc58&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thanakitc58&theme=dark&background=000000"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakitc58&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakitc58&layout=compact&theme=dark"/>
-
-</div>
