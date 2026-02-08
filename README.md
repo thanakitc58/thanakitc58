@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" target="_blank">
   <a href="https://www.linkedin.com/in/thanakit-chanbang-4a4b733a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Fullstack Developer** who enjoys building reliable backend systems.  
+I’m a **Junior Fullstack Developer** who enjoys building reliable backend systems.  
 I work with **Node.js, Java, Spring Boot**, and modern frontend tools like **React** and **Vue**.  
 Currently focusing on **clean code, scalable APIs, and system design**.
 
