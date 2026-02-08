@@ -56,8 +56,8 @@ Learning system design & scalable architecture 🚀
 
 ### :fire: My Stats
 
-<div align="center">
+<div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanakitc58&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
