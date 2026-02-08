@@ -58,6 +58,7 @@ Learning system design & scalable architecture 🚀
 
 <div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanakitc58&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?thanakitc58&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanakitc58)](https://github.com/anuraghazra/github-readme-stats)
