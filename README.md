@@ -16,9 +16,10 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Junior Fullstack Developer** who enjoys building reliable backend systems.  
-I work with **Node.js, Java, Spring Boot**, and modern frontend tools like **React** and **Vue**.  
-Currently focusing on **clean code, scalable APIs, and system design**.
+Fullstack Developer with a strong interest in Backend Development  
+Node.js • Spring Boot • MongoDB • PostgreSQL  
+Learning system design & scalable architecture 🚀
+
 
 ### :hammer_and_wrench: Languages and Tools
 #### 🎨 Frontend
