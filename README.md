@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi i'm Thanakit Chanbang  👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDM5aXU4YWxmYzBvZDA1dThlN2hrMnFxMWQ2eTY1Zmhoa3hxN2c3bSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/jdPMeyv9rn0hZHh8n9/giphy.gif)" width="100"/>
 </div>
 
 <!--
